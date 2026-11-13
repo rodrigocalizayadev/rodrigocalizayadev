@@ -50,7 +50,7 @@ Desarrollador backend con casi 3 años de experiencia en proyectos enterprise de
 
 **Desarrollador Backend Java · FiveIt** (2024 – 2026)
 
-- **Modernización de sistemas legacy:** migración de 8 módulos críticos de Oracle Forms a una arquitectura web moderna para una aseguradora (contabilidad, impuestos, pagos, conciliación bancaria y cobranzas). Java 8/17/21, Spring Boot 3.5, Oracle DB.
+- **Modernización de sistemas legacy:** migración de 8 módulos críticos de Oracle Forms a una arquitectura web moderna para los sistemas de Federación Patronal Seguros (contabilidad, impuestos, pagos, conciliación bancaria y cobranzas). Java 8/17/21, Spring Boot 3.5, Oracle DB.
 - **CI/CD y despliegue:** merge requests en GitLab, seguimiento de pipelines automatizados y monitoreo de servicios en OpenShift.
 - **Sistema multiagentes con IA:** backend en Python + FastAPI de un asistente que automatiza el descubrimiento y la documentación de requerimientos, con agentes orquestados en LangGraph sobre PostgreSQL.
 
